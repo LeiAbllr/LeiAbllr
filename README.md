@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leilyn Mae Abellar</h1>
-<h3 align="center">A BSIS student majoring in Business Analytics at the College of ICT, West Visayas State University</h3>
+<h3 align="center">A BSIS student specializing in Business Analytics at the College of ICT, West Visayas State University</h3>
 <img align="right" alt="Analyst" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiabllr&label=Profile%20views&color=0e75b6&style=flat" alt="leiabllr" /> </p>
