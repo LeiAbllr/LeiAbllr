@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **my capstone**
 
-- 🌱 I’m currently learning **R, ReactJS, PHP, and MySQL**
+- 🌱 I’m currently learning **R, PHP, and MySQL**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **R Programming**
 
 - 📫 How to reach me **leilyn.abellar@wvsu.edu.ph**
 
-- ⚡ Fun fact **I like analyzing data**
+- ⚡ Fun fact **I like cleaning, organizing, and analyzing data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
